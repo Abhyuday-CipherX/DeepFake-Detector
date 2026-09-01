@@ -1,4 +1,4 @@
-# Forensica AI
+# DeepFake Detection System
 
 ### Explainable AI Platform for Document Forgery Detection
 
@@ -20,7 +20,7 @@ There is a need for an **automated system that can assist investigators and inst
 
 ## Solution
 
-Forensica AI provides an automated pipeline that:
+This Model provides an automated pipeline that:
 
 1. Accepts uploaded documents (PDF, JPG, PNG).
 2. Extracts text and visual patterns from the document.
@@ -150,7 +150,7 @@ frontend/
 Clone the repository:
 
 ```
-git clone https://github.com/NovocaineX/vortex-hackathon26.git
+git clone https://github.com/Abhyuday-CipherX/DeepFake-Detector.git
 ```
 
 Install dependencies:
