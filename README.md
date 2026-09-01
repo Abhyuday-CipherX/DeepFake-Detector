@@ -2,10 +2,8 @@
 
 ### Explainable AI Platform for Document Forgery Detection
 
-Forensica AI is an AI-assisted forensic document analysis platform designed to detect forged, manipulated, or suspicious documents using explainable analysis techniques.
+This is an AI-assisted forensic document analysis platform designed to detect forged, manipulated, or suspicious documents using explainable analysis techniques.
 The system analyzes uploaded files and highlights anomalies such as font inconsistencies, pixel cloning, layout irregularities, and compression artifacts while generating a structured forensic report.
-
-This project was built for **ThinkRoot x Vortex ’26 Hackathon – Track C**.
 
 ---
 
