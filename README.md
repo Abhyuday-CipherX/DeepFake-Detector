@@ -1,4 +1,4 @@
-# DeepFake Detection System
+# DeepFake Detection System (Basics of document verification) 
 
 ### Explainable AI Platform for Document Forgery Detection
 
