@@ -1,4 +1,4 @@
-# DeepFake Detection System (Basics of document verification) 
+# DeepFake Detection System (Basics of document verification)
 
 ### Explainable AI Platform for Document Forgery Detection
 
@@ -188,6 +188,8 @@ Open the frontend in a browser and upload a document to start analysis.
 ## Demo
 
 Demo video and screenshots are available in the `demo/` directory.
+
+railway.toml is not connected properly.
 
 ---
 
